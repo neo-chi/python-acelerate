@@ -1,0 +1,21 @@
+pynvim
+python-lsp-server[all]
+jedi
+tox
+black
+isort
+pytest
+pytest-cov
+pytest-asyncio
+pytest-randomly
+aiohttp
+ruamel.yaml
+numpy
+pandas
+matplotlib
+seaborn
+openpyxl
+colorama
+progress
+click
+-e .

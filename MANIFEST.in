@@ -1,0 +1,12 @@
+include pyproject.toml
+include *.md
+include LICENSE.txt
+include MANIFEST.in
+include setup.py
+recursive-include data *
+
+graft tests
+graft examples
+graft docs
+graft src
+graft config
